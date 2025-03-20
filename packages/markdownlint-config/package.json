@@ -1,0 +1,23 @@
+{
+  "name": "demo1",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "main": "index.json",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoyioo/demo-xy.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/demo1.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/xiaoyioo/demo-xy/issues"
+  }
+}
