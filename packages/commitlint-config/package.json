@@ -1,6 +1,6 @@
 {
   "name": "commitlint-config",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "license": "ISC",
   "main": "index.js",
